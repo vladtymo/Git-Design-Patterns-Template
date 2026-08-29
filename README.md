@@ -1,4 +1,4 @@
-# Git-Design-Patterns-SPD311
+# Git-Design-Patterns
 
 A static site guide to software design patterns, with UML diagrams and code examples for each pattern.
 
